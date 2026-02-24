@@ -1,0 +1,17 @@
+<map id="/home/maksjog/cpp&#45;dev/3d&#45;curves/src/curves/curves_3d.cpp" name="/home/maksjog/cpp&#45;dev/3d&#45;curves/src/curves/curves_3d.cpp">
+<area shape="rect" id="Node000001" title="Implementation of the 3D parametric curves library." alt="" coords="93,5,253,64"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,112,77,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,67,74,105,71,101,129,62"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="100,112,158,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,66,144,99,140,97,156,63"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="181,112,253,139"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="190,63,206,97,202,99,185,66"/>
+<area shape="rect" id="Node000005" href="$curves__3d_8hpp.html" title="Library of simple 3D parametric curves." alt="" coords="277,112,384,139"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="225,62,296,102,293,106,223,67"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="216,187,269,213"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="317,141,271,179,267,175,313,137"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="293,187,368,213"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="333,139,333,171,328,171,328,139"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="392,187,452,213"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="348,137,396,175,393,179,345,141"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="curves_3d::ellipse_3d" name="curves_3d::ellipse_3d">
+<area shape="rect" id="Node000001" title="Ellipse in the XY plane centered at the origin." alt="" coords="5,80,153,107"/>
+<area shape="rect" id="Node000002" href="$classcurves__3d_1_1curve__3d.html" title="Abstract base class for a 3D parametric curve." alt="" coords="8,5,150,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,48,82,80,76,80,76,48"/>
+</map>

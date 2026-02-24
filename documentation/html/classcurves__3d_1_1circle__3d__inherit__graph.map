@@ -1,0 +1,5 @@
+<map id="curves_3d::circle_3d" name="curves_3d::circle_3d">
+<area shape="rect" id="Node000001" title="Circle in the XY plane centered at the origin." alt="" coords="6,80,147,107"/>
+<area shape="rect" id="Node000002" href="$classcurves__3d_1_1curve__3d.html" title="Abstract base class for a 3D parametric curve." alt="" coords="5,5,148,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,48,79,80,74,80,74,48"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="curves_3d::curve_3d" name="curves_3d::curve_3d">
+<area shape="rect" id="Node000001" title="Abstract base class for a 3D parametric curve." alt="" coords="173,5,315,32"/>
+<area shape="rect" id="Node000002" href="$classcurves__3d_1_1circle__3d.html" title="Circle in the XY plane centered at the origin." alt="" coords="5,80,147,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,41,107,82,104,77,200,36"/>
+<area shape="rect" id="Node000003" href="$classcurves__3d_1_1ellipse__3d.html" title="Ellipse in the XY plane centered at the origin." alt="" coords="170,80,318,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,48,247,80,241,80,241,48"/>
+<area shape="rect" id="Node000004" href="$classcurves__3d_1_1helix__3d.html" title="Circular helix around the Z axis." alt="" coords="342,80,479,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="288,36,382,77,380,82,286,41"/>
+</map>
